@@ -1,0 +1,6 @@
+{
+  "name": "CourseAgent",
+  "description": "An interactive classroom quiz and standalone study platform designed for real-time multiplayer assessments and self-paced skill challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
